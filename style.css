@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 .nav{
-    background-color: cornflowerblue;
+    background-color:#085A04;
 
 display: flex;
     justify-content: center;
@@ -17,7 +17,7 @@ margin: 0px;
 
 }
 .a:hover{
-     background-color: rgb(38, 42, 252);
+      background-color:#149e10;
 }
 tr{
     height: 200px;
