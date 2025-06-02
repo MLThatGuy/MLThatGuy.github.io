@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+.nav{
+    background-color: cornflowerblue;
+
+display: flex;
+    justify-content: center;
+   height: 80px;
+   
+}
+.a{
+ padding: 20px;
+ text-decoration: none; 
+ color: whitesmoke;
+margin: 0px;
+
+}
+.a:hover{
+     background-color: rgb(38, 42, 252);
+}
+tr{
+    height: 200px;
+}
